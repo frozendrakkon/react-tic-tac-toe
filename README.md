@@ -1,2 +1,2 @@
 
-** https://frozendrakkon.github.io/react-tic-tac-toe/ **
+**https://frozendrakkon.github.io/react-tic-tac-toe/**
